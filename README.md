@@ -1,4 +1,4 @@
-## Simple Laravel with reduces laradoc infrastructure
+## Simple Laravel 5.4.x with reduced laradoc infrastructure
 - this laravel boilerplate just contains docker, dockercompose, nginx, mysql 5.7, php71 
 - base is the well known laradoc project [**Full Documentation Here**](http://laradock.io)
 
